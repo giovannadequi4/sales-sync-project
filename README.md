@@ -28,6 +28,11 @@ Solução prática para gerenciamento completo de uma loja, unindo aprendizado a
 - Modelagem e desenvolvimento do sistema completo
 - Evolução contínua com novas funcionalidades conforme uso
 
+## 🧩 Desafios Técnicos
+
+O planejamento do banco de dados foi uma etapa central no projeto. A estrutura foi pensada para suportar operações complexas e permitir a geração de relatórios, controle preciso de estoque, trocas e vales. A modelagem relacional clara foi essencial para a escalabilidade e manutenção do sistema.
+
+
 ## 📸 Imagens 
 
 > 
