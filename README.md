@@ -38,9 +38,11 @@ O planejamento do banco de dados foi uma etapa central no projeto. A estrutura f
 
 O banco de dados foi cuidadosamente modelado e normalizado para garantir consistência, evitar redundâncias e permitir escalabilidade. A estrutura contempla relacionamentos bem definidos, integridade referencial e suporte a operações complexas, como relatórios personalizados e previsão de esgotamento de estoque.
 
-## 📸 Imagens 
+## 📸 Imagens
 
-> 
+![Login](imagem-1.png)
+
+![Tela principal do sistema](imagem-2.png)
 
 ## 📁 Organização do Código
 
