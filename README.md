@@ -47,8 +47,11 @@ O banco de dados foi cuidadosamente modelado e normalizado para garantir consist
 ## 📁 Organização do Código
 
 /backend # Scripts PHP, conexão com o BD, controllers
+
 /frontend # HTML, CSS, JS
+
 /database # Script SQL do banco de dados
+
 /docs # Modelagens UML e documentação do projeto
 
 ## 👩‍💻 Desenvolvido por
