@@ -32,6 +32,8 @@ Solução prática para gerenciamento completo de uma loja, unindo aprendizado a
 
 O planejamento do banco de dados foi uma etapa central no projeto. A estrutura foi pensada para suportar operações complexas e permitir a geração de relatórios, controle preciso de estoque, trocas e vales. A modelagem relacional clara foi essencial para a escalabilidade e manutenção do sistema.
 
+🧠 Este projeto também foi um exercício de resiliência. Desenvolvido como Trabalho de Conclusão de Curso, envolveu prazos curtos, pressão por qualidade e responsabilidade em entregar um sistema funcional real. Foi necessário manter o foco, gerenciar o tempo e lidar emocionalmente com a carga do processo — habilidades que considero tão importantes quanto o código.
+
 
 ## 📸 Imagens 
 
