@@ -34,6 +34,9 @@ O planejamento do banco de dados foi uma etapa central no projeto. A estrutura f
 
 🧠 Este projeto também foi um exercício de resiliência. Desenvolvido como Trabalho de Conclusão de Curso, envolveu prazos curtos, pressão por qualidade e responsabilidade em entregar um sistema funcional real. Foi necessário manter o foco, gerenciar o tempo e lidar emocionalmente com a carga do processo — habilidades que considero tão importantes quanto o código.
 
+## 🧩 Modelagem e Normalização
+
+O banco de dados foi cuidadosamente modelado e normalizado para garantir consistência, evitar redundâncias e permitir escalabilidade. A estrutura contempla relacionamentos bem definidos, integridade referencial e suporte a operações complexas, como relatórios personalizados e previsão de esgotamento de estoque.
 
 ## 📸 Imagens 
 
@@ -45,7 +48,6 @@ O planejamento do banco de dados foi uma etapa central no projeto. A estrutura f
 /frontend # HTML, CSS, JS
 /database # Script SQL do banco de dados
 /docs # Modelagens UML e documentação do projeto
-
 
 ## 👩‍💻 Desenvolvido por
 
