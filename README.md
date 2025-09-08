@@ -28,13 +28,13 @@ Solução prática para gerenciamento completo de uma loja, unindo aprendizado a
 - Levantamento de requisitos com o cliente  
 - Análise de problemas reais  
 - Modelagem e desenvolvimento do sistema completo  
-- Evolução contínua com novas funcionalidades conforme uso  
+- Evolução contínua com novas funcionalidades conforme uso ao longo de 2024
 
 ## 🧩 Desafios Técnicos
 
 O planejamento do banco de dados foi uma etapa central no projeto. A estrutura foi pensada para suportar operações complexas e permitir a geração de relatórios, controle preciso de estoque, trocas e vales. A modelagem relacional clara foi essencial para a escalabilidade e manutenção do sistema.
 
-🧠 Este projeto também foi um exercício de resiliência. Desenvolvido como Trabalho de Conclusão de Curso, envolveu prazos curtos, pressão por qualidade e responsabilidade em entregar um sistema funcional real. Foi necessário manter o foco, gerenciar o tempo e lidar emocionalmente com a carga do processo — habilidades que considero tão importantes quanto o código.
+🧠 Além do código: Desenvolvido como Trabalho de Conclusão de Curso, sua implementação envolveu prazos curtos, pressão por qualidade e responsabilidade em entregar um sistema funcional real. Foi necessário analisar cuidadosamente, projetar e resolver um problema real, além de manter o foco, gerenciar o tempo e lidar emocionalmente com a carga do processo.
 
 ## 🧩 Modelagem e Normalização
 
@@ -47,9 +47,7 @@ O banco de dados foi cuidadosamente modelado e normalizado para garantir consist
 
 ## 📁 Organização do Código
 
-/backend # Scripts PHP, conexão com o BD, controllers
-
-/frontend # HTML, CSS, JS
+/projeto # Scripts PHP, conexão com o BD, MVC
 
 /database # Script SQL do banco de dados
 
@@ -98,7 +96,7 @@ A practical solution for complete store management, combining academic learning 
 
 Database design was a central step in the project. The structure supports complex operations, enables report generation, accurate stock tracking, returns, and vouchers. Clear relational modeling ensured scalability and maintainability.
 
-🧠 This project was also a test of resilience. Developed under pressure as a final course project, it required time management, quality delivery, and emotional maturity — skills I consider as vital as coding itself.
+🧠 Developed under pressure as a final course project, it required time management, quality delivery, and emotional maturity — skills I consider as vital as coding itself.
 
 ## 🧩 Modeling and Normalization
 
@@ -111,9 +109,7 @@ The database was carefully modeled and normalized to ensure consistency, avoid r
 
 ## 📁 Code Structure
 
-/backend # PHP scripts, database connection, controllers
-
-/frontend # HTML, CSS, JS
+/system # PHP scripts, database connection, MVC
 
 /database # SQL script for the database
 
