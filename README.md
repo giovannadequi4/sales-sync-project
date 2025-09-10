@@ -10,7 +10,7 @@ Sistema desenvolvido para administração de vendas e controle de estoque, utili
 - Vendas e trocas: registro de operações e administração de vales de clientes.
 - Relatórios analíticos:
   - Vendas: visão anual, mensal e diária, com detalhamento por funcionário e filtros avançados.
-  - Estoque: análise de produtos mais vendidos por categoria e monitoramento inteligente.
+  - Estoque: análise de produtos mais vendidos por categoria e monitoramento de quantidade.
 - Usabilidade: responsividade para diferentes dispositivos e filtros de pesquisa (período, categoria, etc.).
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -36,7 +36,7 @@ O planejamento do banco de dados foi uma etapa central no projeto. A estrutura f
 
 ## 🧩 Modelagem e Normalização
 
-O banco de dados foi cuidadosamente modelado e normalizado para garantir consistência, evitar redundâncias e permitir escalabilidade. A estrutura contempla relacionamentos bem definidos, integridade referencial e suporte a operações complexas, como relatórios personalizados e previsão de esgotamento de estoque.
+O banco de dados foi cuidadosamente modelado e normalizado para garantir consistência, evitar redundâncias e permitir escalabilidade. 
 
 ## 📸 Imagens
 
@@ -68,7 +68,7 @@ System developed for sales management and inventory control, used by a real stor
 - Sales and exchanges: transaction recording and customer voucher management.
 - Analytical reports:
   - Sales: annual, monthly, and daily views with employee breakdown and advanced filters.
-  - Inventory: analysis of top-selling products by category and smart monitoring.
+  - Inventory: analysis of top-selling products by category and stock monitoring.
 - Usability: responsive design for different devices and search filters (period, category, etc.).
 
 ## 🛠️ Technologies and Tools
@@ -94,7 +94,7 @@ Database design was a central step in the project. The structure supports comple
 
 ## 🧩 Modeling and Normalization
 
-The database was carefully modeled and normalized to ensure consistency, avoid redundancy, and allow scalability. It includes well-defined relationships, referential integrity, and support for complex operations like custom reports and stock depletion forecasting.
+The database was carefully modeled and normalized to ensure consistency, avoid redundancy, and allow scalability. 
 
 ## 📸 Screenshots
 
