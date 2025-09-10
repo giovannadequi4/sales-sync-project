@@ -4,22 +4,20 @@
 
 Sistema desenvolvido para administração de vendas e controle de estoque, utilizado por uma loja real. O projeto nasceu como Trabalho de Conclusão de Curso (TCC) e evoluiu para um sistema completo, em uso prático.
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades principais 
 
-- Cadastro e controle de produtos e estoque  
-- Registro de vendas e trocas  
-- Geração de relatórios dinâmicos (vendas, estoque, vales)  
-- Estimativa de tempo de duração do estoque  
-- Filtros de pesquisa por período, categoria e outros  
-- Responsividade para diferentes dispositivos  
-- Gestão de vales de clientes e trocas de mercadoria  
+- Gestão de produtos e estoque: cadastro, controle, estimativa de duração e alertas de baixo nível.
+- Vendas e trocas: registro de operações e administração de vales de clientes.
+- Relatórios analíticos:
+  - Vendas: visão anual, mensal e diária, com detalhamento por funcionário e filtros avançados.
+  - Estoque: análise de produtos mais vendidos por categoria e monitoramento inteligente.
+- Usabilidade: responsividade para diferentes dispositivos e filtros de pesquisa (período, categoria, etc.).
 
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens**: PHP, JavaScript, HTML, CSS  
-- **Banco de Dados**: MySQL (usando PhpMyAdmin)  
-- **Modelagens**: UML (casos de uso, diagrama de classes)  
-- **Outros**: SQL, lógica de negócio, manipulação de datas e cálculos automáticos  
+- **Banco de Dados**: MySQL 
+- **Planejamento**: UML (casos de uso, diagrama de classes) e diagrama ER
 
 ## 🎯 Objetivo
 
@@ -47,11 +45,9 @@ O banco de dados foi cuidadosamente modelado e normalizado para garantir consist
 
 ## 📁 Organização do Código
 
-/projeto # Scripts PHP, conexão com o BD, MVC
-
-/database # Script SQL do banco de dados
-
-/docs # Modelagens UML e documentação do projeto
+/model # Classes
+/view # UI
+/controller # Rotas
 
 
 ## 👩‍💻 Desenvolvido por
@@ -66,22 +62,20 @@ Giovanna Dequi – Técnica em Desenvolvimento de Sistemas, aluna de ADS, desenv
 
 System developed for sales management and inventory control, used by a real store. The project began as a final technical course assignment and evolved into a complete system in active use.
 
-## 🚀 Features
+## 🚀 Key Features
 
-- Product and inventory management  
-- Sales and return registration  
-- Dynamic reports (sales, inventory, vouchers)  
-- Stock duration estimation  
-- Search filters by period, category, and more  
-- Responsive design for multiple devices  
-- Customer voucher and merchandise return management  
+- Product and inventory management: registration, control, duration estimates, and low-stock alerts.
+- Sales and exchanges: transaction recording and customer voucher management.
+- Analytical reports:
+  - Sales: annual, monthly, and daily views with employee breakdown and advanced filters.
+  - Inventory: analysis of top-selling products by category and smart monitoring.
+- Usability: responsive design for different devices and search filters (period, category, etc.).
 
 ## 🛠️ Technologies and Tools
 
 - **Languages**: PHP, JavaScript, HTML, CSS  
 - **Database**: MySQL (via PhpMyAdmin)  
-- **Modeling**: UML (use cases, class diagrams)  
-- **Other**: SQL, business logic, date handling, and automatic calculations  
+- **Modeling**: UML (use cases, class diagrams), ER Diagram
 
 ## 🎯 Purpose
 
@@ -109,11 +103,9 @@ The database was carefully modeled and normalized to ensure consistency, avoid r
 
 ## 📁 Code Structure
 
-/system # PHP scripts, database connection, MVC
-
-/database # SQL script for the database
-
-/docs # UML models and project documentation
+/model # Classes
+/view # UI
+/controller # Routes
 
 ## 👩‍💻 Developed by
 
